@@ -1,7 +1,7 @@
 ﻿key,0
 #,
 int32,str
-0,""
+0,
 1,"Sinus Ardorum is in dire need of materials to support the construction and development of the Moongate Hub, an intrastellar transportation system, on-site domiciles, and infrastructure necessary for travel to other stars. Of these materials, metal plating is some of the highest in demand, specifically that which meets the strict regulations of cosmic exploration. We seek talented crafters capable of fulfilling our metallurgical needs."
 2,"Lunar adamantite is a mineral unique to the moon, but it seems that the samples collected within Sinus Ardorum exhibit even greater durability than what we've encountered thus far─a property that could prove extremely useful in the construction of starships and various other moon-based facilities. We call upon skilled metalworkers to forge a steady supply of ingots from our stockpiled ore that we might explore and develop new applications for use in our cosmic initiative."
 3,"The Cosmic Exploration Initiative employs a wide range of machinery, but supplying individually tailored parts for the maintenance of each device on-site would lead to astronomical operation costs. To alleviate this expense, we've imposed a “cosmic standard” on all basic components used in our equipment. Recent reports cite an alarming shortage of the joints and shafts needed to keep the facilities running, and we are welcoming all contributions forged to the aforementioned specifications."
@@ -43,7 +43,7 @@ int32,str
 39,"In the vastness of the cosmos, none can predict what manner of accidents might occur. Should the unthinkable happen─for instance, if a ship were to stall in a stellar current, leaving it unmoored in the dark void of space─how would we survive? We must prepare for all eventualities, and to that end we mean to stockpile compact, stable, and long-lasting foodstuffs aboard our ship, not to mention carrots of happiness. We ask that all capable artisans deliver rations and beverages fortified with sufficient nutrients."
 40,"An analysis of the vegetation in Weddingway's Bower has found that many specimens are exceptionally nutritious. Our researchers have theorized that such plants could be used as a basis for new types of cosmetics and food products─if only someone could solve the problem of the peculiar odor these plants emit. To that end, we shall make all the technology we have available at the disposal of artisans willing to help tackle this conundrum."
 41,"Long-term habitation among the stars is unprecedented for most peoples, and among the many unknowns involved is its effect on mental well-being. We believe it a matter that demands careful consideration, and ask that our artisans of varied backgrounds create furnishings and food that evoke familiarity and comfort. Special focus should be placed on promoting mental harmony through aesthetic and olfactory means."
-42,"It has come to the initiative's attention that the adventurers in Etheirys employ special foods and tinctures to enhance their abilities prior to engaging in decisive battles or delicate tasks. Having such items at our disposal would certainly help us deal with the various crises which arise in the course of our work. All available artisans are requested to deliver portable foodstuffs and alchemics which will make our workers more efficient."
+42,It has come to the initiative's attention that the adventurers in Etheirys employ special foods and tinctures to enhance their abilities prior to engaging in decisive battles or delicate tasks. Having such items at our disposal would certainly help us deal with the various crises which arise in the course of our work. All available artisans are requested to deliver portable foodstuffs and alchemics which will make our workers more efficient.
 43,"We have discovered that one of the aquatic organisms raised in the Moongate Hub secretes a fluid rich in nutrients, but have yet to test its effect on the various peoples which work with us. To determine whether this secretion is fit for consumption, the fluid must be processed into an edible form. While the organism in question may be only an anomalous mutation, we believe it has great potential, and recommend processing it into food products or alchemical mixtures."
 44,"The initiative has decided to treat our workers to warm meals and fatigue-relieving medicine as a reward for their efforts. Considering our numbers, such an undertaking is no small feat, and requires the preparation of large quantities of product that maintains uniform quality in both effectiveness and flavor. Due to the complexity of the task, we ask that our artisans report to us for evaluation periodically during the course of their work."
 45,"While Hydaelyn has blessed us Loporrits with an industriousness that can endure countless centuries, we are still driven by our spirits, and as such our performance fluctuates in relation to our mental well-being. To keep morale high, we request items that will enhance the mood of Loporrit workers. Just as people from Etheirys find comfort in verdant greens and soothing blues, we take solace in ashen greys that remind us of the moon─and of course, anything that tastes like carrots is a delicacy to our palates."
@@ -71,7 +71,7 @@ int32,str
 67,"We have an urgent request from the Moongate Hub cafeteria, the sole lunar establishment for providing foodstuffs to members of the initiative. A delay in deliveries from Etheirys has left the culinarians with no ingredients on hand to cook. Thus, we must turn to sources of nourishment local to Sinus Ardorum─namely, fish. As similar emergencies may occur during our interstellar expeditions, this is an opportunity for us to learn from experience. We urge contributors to gather the requested number of fish and deliver them as soon as possible."
 68,"In ordinary circumstances, we would prepare bait and lure suited to reeling in fish of every variety for our voyage across the stars. Alas, our circumstances are anything but ordinary, and with the starship's limited capacity, we are in desperate need of proficient fishers who can capture fish of all kinds with limited stores of bait. Capable contributors are to use the distributed bait to capture as many different species of fish possible, which will simultaneously give us a glimpse into the ecological status of their chosen fishing hole."
 69,"With limited resources available to carry out our initiative, large fish are an invaluable source of food and materials. It is in our best interest to capture them efficiently for the advancement─and cost-effectiveness─of our cause. We call upon our deftest fishers to flaunt their skills, and use the procured bait to catch as many large fish as possible."
-70,"The utility provided by rare aquatic fauna cannot be overstated. Yet to use fathomless amounts of bait to acquire such specimens would hardly be a boon for our finances. Reeling in a hundred rare finds with a single lure─such is the aspiration of any fervent fisher. We challenge contributors to use the limited bait provided to capture as many rare specimens as possible."
+70,The utility provided by rare aquatic fauna cannot be overstated. Yet to use fathomless amounts of bait to acquire such specimens would hardly be a boon for our finances. Reeling in a hundred rare finds with a single lure─such is the aspiration of any fervent fisher. We challenge contributors to use the limited bait provided to capture as many rare specimens as possible.
 71,"Aquatic resources serve a range of uses for our initiative, from providing materials for alchemical remedies, to becoming ingredients used in seasonings. Fish in particular contain small amounts of precious substances, and the larger the fish, the more we can hope to extract. To determine the amount of materials we can expect to retrieve from larger catches and set appropriate goals for the future, we call upon collaborators to reel in as many large fish as they are able."
 72,"Due to Sinus Ardorum's unique aetheric conditions, flora and fauna are on rare occasion greatly enlarged. To investigate this phenomenon further, measurement of aetheric concentration in certain lunar springs and comparison of the average size of fish against the largest specimen is necessary. Aid us in determining the correlation between these factors by delivering the largest fish you reel in during the designated timeframe."
 73,"Stockpiling of resources for interstellar travel is ongoing at the Moongate Hub. Until now, certain processed materials such as preserved foodstuffs and alchemical concoctions were imported from Etheirys. As costs are mounting, the call has been made to procure what materials we can from the moon instead. In light of this, collaborators are urged to secure high-quality resources from lunar springs."
@@ -81,7 +81,7 @@ int32,str
 77,"Drone analyses have revealed the high probability that certain aquatic lifeforms may coexist in some springs, contrary to our initial hypotheses. Ascertaining the veracity of these analyses would greatly improve our understanding of aquatic life on the moon. Drones will continue to be a precious tool for our study and understanding of the cosmos, and as a first hop, we ask that contributors acquire samples of the designated specimens."
 78,"Research on the effects aetherochemical contamination has on aquatic fauna and its correlation to their size proceeds apace. Comparison of average-sized fish with larger specimens in polluted waters will help us to gauge the influence of aetherochemicals. As such, contributors are requested to procure sufficient samples from the designated location."
 79,"Investigations of the aetherochemical springs in Sinus Ardorum have revealed that there may exist species of aquatic life we have yet to discover. While only evidence of known species has been found thus far, and nigh all regarding our elusive quarries remains unknown, confirmation of our suspicions would be a major hop forward in our research efforts. We are cognizant that fulfillment of this task will be trying, and will evaluate any contributor who succeeds in the endeavor in high esteem."
-80,""
+80,
 81,"For the preservation and study of aquatic resources, development of vessels which recreate their natural environment is crucial. To ensure we can handle such resources with the utmost care in our interstellar travels, experimentation here on the moon is essential. Therefore, we would begin trialing the manufacture of preservative vessels for specimens procured from Sinus Ardorum's springs. Contributors are requested to model these vessels after the Studium's research tanks, reinforcing them for the purposes of transport."
 82,"Storage capacity on the starship is limited, and thus it is essential we improve our ability to procure locally sourced materials during our interstellar expeditions. Therefore, we ask that contributors craft experimental tools using only materials found in Sinus Ardorum. This shall be an exercise not only of practical use to our future interstellar endeavors, but a scientific inquiry into what manner of tools contributors can craft from lunar resources."
 83,"Unlike Mare Lamentorum, where structures wrought by Hydaelyn yet stand, Sinus Ardorum bears no trace of Etheirys's civilization. It makes a Loporrit wonder: can materials procured from this forlorn place be crafted into items which provide warmth and comfort to people's lives? It is with this query in mind that contributors are requested to utilize lunar resources in the recreation of furnishings seen on Etheirys. Once the finished product's safety is confirmed, we shall invite initiative members to review the utility of such items in their capacity as a reminder of home."
@@ -100,99 +100,54 @@ int32,str
 96,"Further analysis of the sporing mist has revealed a much broader spread than originally projected. Reports indicate that vegetation and life in the northeastern sector of the Cosmoor have been affected. While no harmful toxins or similar abnormalities have been detected, we cannot rule out the presence of harmful mutations. We ask that any capable hands travel to the Cosmoor and investigate the effects of the sporing mist, then collect biological samples for further analysis."
 97,"A mutant species of cactus has been identified near the blooming beds in Weddingway's Bower─we suspect as a result of the sporing mist. It appears its spines are toxic, and workers have been deployed to the area to eradicate the cacti before they become thorns in our collective sides. They report shortages of equipment and fuel, so we request skilled artisans to prepare and deliver more supplies so that the burning can continue unabated."
 98,"It appears Weddingway's Bower is home to a form of beneficial spongos, which can be found to the east of the blooming beds. With robust and viscous mycelium, we believe it can be processed into durable fabric suited for interstellar exploration or converted into hard, lightweight construction materials that can adapt to varied environments. Since the spongoi must be processed immediately after collection, we are putting out an urgent call for skilled artisans. We look forward to your valuable contribution to the initiative."
-99,"Craft items with limited supplies.
-High-quality items will earn a higher score."
-100,"Craft collectables with limited supplies.
-Collectability will be scored."
-101,"Craft items with limited time and supplies.
-High-quality items will earn a higher score."
-102,"Craft collectables with limited time and supplies.
-Collectability will be scored."
-103,"Gather items from limited gathering points.
-Number of items will be scored."
-104,"Gather items as quickly as possible.
-More time remaining will earn a higher score."
-105,"Gather items within the time limit.
-Number of items will be scored."
-106,"Achieve the target score within the time limit.
-Successful chains will be scored."
-107,"Achieve the target score within the time limit.
-Instances of Gatherer's Boon will be scored."
-108,"Achieve the target score within the time limit.
-Chains and instances of Gatherer's Boon will be scored."
-109,"Gather collectables and achieve the target score within the time limit.
-Collectability will be scored."
-110,"Obtain a reduced item as quickly as possible.
-More time remaining will earn a higher score."
-111,"Gather items and achieve the target score within the time limit.
-Number of items and collectability will be scored."
-112,"Obtain reduced items within the time limit.
-Number of items will be scored."
-113,"Catch a variety of fish as quickly as possible.
-More time remaining will earn a higher score."
-114,"Catch specified fish as quickly as possible.
-More time remaining will earn a higher score."
-115,"Catch fish as quickly as possible.
-More time remaining will earn a higher score."
-116,"Catch a variety of fish with limited bait.
-Greater variety will earn a higher score."
-117,"Catch large fish with limited bait and achieve the target score.
-Largest fish caught will be scored."
-118,"Catch collectables with limited bait and achieve the target score.
-Collectability will be scored."
-119,"Achieve the target score within the time limit.
-Size of fish will be scored."
-120,"Catch large fish and achieve the target score within the time limit.
-Largest fish caught will be scored."
-121,"Achieve the target score within the time limit.
-Number and size of fish will be scored."
-122,"Catch collectables and achieve the target score within the time limit.
-Collectability will be scored."
-123,"Gather supplies as a miner and craft items as a carpenter.
-High-quality items will earn a higher score."
-124,"Gather supplies as a miner and craft items as an armorer.
-High-quality items will earn a higher score."
-125,"Gather supplies as a miner and craft items as a goldsmith.
-High-quality items will earn a higher score."
-126,"Gather supplies as a miner and craft items as a blacksmith.
-High-quality items will earn a higher score."
-127,"Gather supplies as a miner and craft items as a leatherworker.
-High-quality items will earn a higher score."
-128,"Gather supplies as a miner and craft items as a weaver.
-High-quality items will earn a higher score."
-129,"Gather supplies as a botanist and craft items as a leatherworker.
-High-quality items will earn a higher score."
-130,"Gather supplies as a botanist and craft items as a weaver.
-High-quality items will earn a higher score."
-131,"Gather supplies as a botanist and craft items as a culinarian.
-High-quality items will earn a higher score."
-132,"Gather supplies as a botanist and craft items as a carpenter.
-High-quality items will earn a higher score."
-133,"Gather supplies as a botanist and craft items as an armorer.
-High-quality items will earn a higher score."
-134,"Gather supplies as a botanist and craft items as an alchemist.
-High-quality items will earn a higher score."
-135,"Catch supplies as a fisher and craft items as a blacksmith.
-High-quality items will earn a higher score."
-136,"Catch supplies as a fisher and craft items as an alchemist.
-High-quality items will earn a higher score."
-137,"Catch supplies as a fisher and craft items as a goldsmith.
-High-quality items will earn a higher score."
-138,"Catch supplies as a fisher and craft items as a culinarian.
-High-quality items will earn a higher score."
-139,"Gather items within the time limit."
-140,"Craft items within the time limit and achieve the target score.
-High-quality items will earn a higher score."
-141,""
-142,""
-143,""
-144,"Deliver items to the designated location."
-145,"Craft items without failing once within the time limit.
-High-quality items will earn a higher score."
-146,"Craft collectables without failing once within the time limit.
-Collectability will be scored."
-147,"Craft items with limited supplies.
-High-quality items will earn a higher score, and collectability will be scored."
-148,"Craft items with limited time and supplies.
-High-quality items will earn a higher score, and collectability will be scored."
-149,"Craft items without failing once within the time limit."
+99,Craft items with limited supplies. High-quality items will earn a higher score.
+100,Craft collectables with limited supplies. Collectability will be scored.
+101,Craft items with limited time and supplies. High-quality items will earn a higher score.
+102,Craft collectables with limited time and supplies. Collectability will be scored.
+103,Gather items from limited gathering points. Number of items will be scored.
+104,Gather items as quickly as possible. More time remaining will earn a higher score.
+105,Gather items within the time limit. Number of items will be scored.
+106,Achieve the target score within the time limit. Successful chains will be scored.
+107,Achieve the target score within the time limit. Instances of Gatherer's Boon will be scored.
+108,Achieve the target score within the time limit. Chains and instances of Gatherer's Boon will be scored.
+109,Gather collectables and achieve the target score within the time limit. Collectability will be scored.
+110,Obtain a reduced item as quickly as possible. More time remaining will earn a higher score.
+111,Gather items and achieve the target score within the time limit. Number of items and collectability will be scored.
+112,Obtain reduced items within the time limit. Number of items will be scored.
+113,Catch a variety of fish as quickly as possible. More time remaining will earn a higher score.
+114,Catch specified fish as quickly as possible. More time remaining will earn a higher score.
+115,Catch fish as quickly as possible. More time remaining will earn a higher score.
+116,Catch a variety of fish with limited bait. Greater variety will earn a higher score.
+117,Catch large fish with limited bait and achieve the target score. Largest fish caught will be scored.
+118,Catch collectables with limited bait and achieve the target score. Collectability will be scored.
+119,Achieve the target score within the time limit. Size of fish will be scored.
+120,Catch large fish and achieve the target score within the time limit. Largest fish caught will be scored.
+121,Achieve the target score within the time limit. Number and size of fish will be scored.
+122,Catch collectables and achieve the target score within the time limit. Collectability will be scored.
+123,Gather supplies as a miner and craft items as a carpenter. High-quality items will earn a higher score.
+124,Gather supplies as a miner and craft items as an armorer. High-quality items will earn a higher score.
+125,Gather supplies as a miner and craft items as a goldsmith. High-quality items will earn a higher score.
+126,Gather supplies as a miner and craft items as a blacksmith. High-quality items will earn a higher score.
+127,Gather supplies as a miner and craft items as a leatherworker. High-quality items will earn a higher score.
+128,Gather supplies as a miner and craft items as a weaver. High-quality items will earn a higher score.
+129,Gather supplies as a botanist and craft items as a leatherworker. High-quality items will earn a higher score.
+130,Gather supplies as a botanist and craft items as a weaver. High-quality items will earn a higher score.
+131,Gather supplies as a botanist and craft items as a culinarian. High-quality items will earn a higher score.
+132,Gather supplies as a botanist and craft items as a carpenter. High-quality items will earn a higher score.
+133,Gather supplies as a botanist and craft items as an armorer. High-quality items will earn a higher score.
+134,Gather supplies as a botanist and craft items as an alchemist. High-quality items will earn a higher score.
+135,Catch supplies as a fisher and craft items as a blacksmith. High-quality items will earn a higher score.
+136,Catch supplies as a fisher and craft items as an alchemist. High-quality items will earn a higher score.
+137,Catch supplies as a fisher and craft items as a goldsmith. High-quality items will earn a higher score.
+138,Catch supplies as a fisher and craft items as a culinarian. High-quality items will earn a higher score.
+139,Gather items within the time limit.
+140,Craft items within the time limit and achieve the target score. High-quality items will earn a higher score.
+141,
+142,
+143,
+144,Deliver items to the designated location.
+145,Craft items without failing once within the time limit. High-quality items will earn a higher score.
+146,Craft collectables without failing once within the time limit. Collectability will be scored.
+147,"Craft items with limited supplies. High-quality items will earn a higher score, and collectability will be scored."
+148,"Craft items with limited time and supplies. High-quality items will earn a higher score, and collectability will be scored."
+149,Craft items without failing once within the time limit.
